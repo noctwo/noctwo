@@ -10,17 +10,17 @@
 
 [![Typescript, React](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)<br>
 <br>
-- 🏋️‍♀️ Calorie Counter with full Website & Darkmode: https://main--peaceful-jelly-685a93.netlify.app/
+🏋️‍♀️ Calorie Counter with full Website & Darkmode: https://main--peaceful-jelly-685a93.netlify.app/
 
 <br><br>
 [![Typescript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)<br>
 <br>
-- 🏍️ Virtual Motorcycle Collection: https://noctwo.github.io/project-moto-panini/
+🏍️ Virtual Motorcycle Collection: https://noctwo.github.io/project-moto-panini/
 
 <br><br>
 [![HTML, CSS](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br>
 <br>
-- 🐕 Responsive Doggfood Onepager: https://noctwo.github.io/project-chomp/
+🐕 Responsive Doggfood Onepager: https://noctwo.github.io/project-chomp/
 
 
 <br><br>
