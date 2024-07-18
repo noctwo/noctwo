@@ -16,6 +16,8 @@
 [![Typescript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)<br>
 <br>
 🏍️ Virtual Motorcycle Collection: https://noctwo.github.io/project-moto-panini/
+<br>
+🧩 Typescript Quiz: https://project-typescript-quiz.netlify.app/
 
 <br><br>
 [![HTML, CSS](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br>
