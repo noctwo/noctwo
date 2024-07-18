@@ -22,7 +22,7 @@
 <br><br>
 [![HTML, CSS](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br>
 <br>
-🐕 Responsive Doggfood Onepager: https://noctwo.github.io/project-chomp/
+🐕 Responsive Dogfood Onepager: https://noctwo.github.io/project-chomp/
 
 
 <br><br>
