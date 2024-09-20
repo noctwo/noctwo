@@ -10,18 +10,18 @@
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
-🎸 Event Pilot - WebApp for Events near you. Group Project - WiP - Refactoring needs to be done: https://eventpilot.netlify.app/login
+🎸 Event Pilot - WebApp for Events near you. Group Project - WiP - Refactoring needs to be done: <a href="https://github.com/noctwo/EventPilot">Repo</a> - <a href="https://eventpilot.netlify.app/login">Live Site</a>
 <br>
-🍳 Yummuy - Recipe Site. Group Project: <a href="https://yummypablo.netlify.app/">Site</a>
+🍳 Yummuy - Recipe Site. Group Project: <a href="https://github.com/noctwo/Yummy">Repo</a> - <a href="https://yummypablo.netlify.app/">Live Site</a>
 <br>
-🏋️‍♀️ Calorie Counter with full Website & Darkmode: https://main--peaceful-jelly-685a93.netlify.app/
+🏋️‍♀️ Calorie Counter with full Website & Darkmode: <a href="https://github.com/noctwo/project-react-calorie-counter">Repo</a> - <a href="https://main--peaceful-jelly-685a93.netlify.app/">Live Site</a>
 
 <br><br>
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
-🏍️ Virtual Motorcycle Collection: https://noctwo.github.io/project-moto-panini/
+🏍️ Virtual Motorcycle Collection: <a href="https://noctwo.github.io/project-moto-panini/">Repo</a> - <a href="https://noctwo.github.io/project-moto-panini/">Live Site</a>
 <br>
-🧩 Typescript Quiz: https://project-typescript-quiz.netlify.app/
+🧩 Typescript Quiz: <a href="https://project-typescript-quiz.netlify.app/">Repo</a>
 
 <br><br>
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
