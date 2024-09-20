@@ -12,6 +12,8 @@
 <br>
 🎸 Event Pilot - WebApp for Events near you. Group Project - WiP - Refactoring needs to be done: https://eventpilot.netlify.app/login
 <br>
+🍳 Yummuy - Recipe Site. Group Project: <a href="https://yummypablo.netlify.app/">Site</a>
+<br>
 🏋️‍♀️ Calorie Counter with full Website & Darkmode: https://main--peaceful-jelly-685a93.netlify.app/
 
 <br><br>
