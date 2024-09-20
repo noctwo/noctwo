@@ -10,6 +10,8 @@
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
+🎸 Event Pilot - WebApp for Events near you. Group Project - WiP - Refactoring needs to be done: https://eventpilot.netlify.app/login
+<br>
 🏋️‍♀️ Calorie Counter with full Website & Darkmode: https://main--peaceful-jelly-685a93.netlify.app/
 
 <br><br>
