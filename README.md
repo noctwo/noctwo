@@ -1,9 +1,9 @@
 ## Ahoi, im Pius 👋
 
 # About Me:
-🚀 I’m currently working on becoming a Frontend Developer.<br>
-🤓 Therefore, I’m learning TypeScript and React, and deepening my already relatively solid knowledge of HTML5 and CSS3.<br>
-🕹️ On the side, I’m playing around and having fun with Tailwind and DaisyUI.<br>
+🚀 I’m a relativly new Frontend Developer.<br>
+🤓 I’m working with and still learn TypeScript and React.<br>
+🕹️ On the side, I’m playing around and having fun with Tailwind or build the occasional Wordpress Website.<br>
 
 # Projects:
 
